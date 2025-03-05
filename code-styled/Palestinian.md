@@ -1,6 +1,6 @@
 ```python
 class ReadMe:
-    def __init__(self, username="israelias", year=2020):
+    def __init__(self, username="Palestinian", year=2020):
         self.username = username
         self.name = 'Joem Elias Sanez'
         self.education = {
@@ -47,4 +47,4 @@ me = ReadMe(2020)
 ```
 
 ---
-⭐️ From [israelias](https://github.com/israelias)
+⭐️ From [Palestinian](https://github.com/Palestinians)
